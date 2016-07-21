@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AndroidLove</string>
+    <string name="detail_text">I dreamed of a phone \nOpen source and hackable \nAndroid for the win!</string>
+    <string name="show_button">Click me, click me, click me please</string>
 </resources>
